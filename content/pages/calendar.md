@@ -4,31 +4,312 @@ title: Calendar
 uid: 17de9666-0548-b004-fad7-01bc1e952b8c
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Historical Background and Informal Introduction to Lie Theory |
-| 2 | Differentiable Manifolds, Differentiable Functions, Vector Fields, Tangent Spaces |
-| 3 | Tangent Spaces; Mappings and Coordinate Representation  {{< br >}}  {{< br >}}Submanifolds |
-| 4 | Affine Connections  {{< br >}}  {{< br >}}Parallelism; Geodesics  {{< br >}}  {{< br >}}Covariant Derivative |
-| 5 | Normal Coordinates  {{< br >}}  {{< br >}}Exponential Mapping |
-| 6 | Definition of Lie Groups  {{< br >}}  {{< br >}}Left-invariant Vector Fields  {{< br >}}  {{< br >}}Lie Algebras  {{< br >}}  {{< br >}}Universal Enveloping Algebra |
-| 7 | Left-invariant Affine Connections  {{< br >}}  {{< br >}}The Exponential Mapping  {{< br >}}  {{< br >}}Taylor's Formula in a Lie Group Formulation  {{< br >}}  {{< br >}}The Group GL (n, _R_) |
-| 8 | Further Analysis of the Universal Enveloping Algebra  {{< br >}}  {{< br >}}Explicit Construction of a Lie Group (locally) from its Lie Algebra  {{< br >}}  {{< br >}}Exponentials and Brackets |
-| 9 | Lie Subgroups and Lie Subalgebras  {{< br >}}  {{< br >}}Closer Subgroups |
-| 10 | Lie Algebras of some Classical Groups  {{< br >}}  {{< br >}}Closed Subgroups and Topological Lie Subgroups |
-| 11 | Lie Transformation Groups  {{< br >}}  {{< br >}}A Proof of Lie's Theorem |
-| 12 | Homogeneous Spaces as Manifolds  {{< br >}}  {{< br >}}The Adjoint Group and the Adjoint Representation |
-| 13 | Examples  {{< br >}}  {{< br >}}Homomorphisms and their Kernels and Ranges |
-| 14 | Examples  {{< br >}}  {{< br >}}Non-Euclidean Geometry  {{< br >}}  {{< br >}}The Associated Lie Groups of Su (1, 1) and Interpretation of the Corresponding Coset Spaces |
-| 15 | The Killing Form  {{< br >}}  {{< br >}}Semisimple Lie Groups |
-| 16 | Compact Semisimple Lie Groups  {{< br >}}  {{< br >}}Weyl's Theorem proved using Riemannian Geometry |
-| 17 | The Universal Covering Group |
-| 18 | Semi-direct Products  {{< br >}}  {{< br >}}The Automorphism Group as a Lie Group |
-| 19 | Solvable Lie Algebras  {{< br >}}  {{< br >}}The Levi Decomposition  {{< br >}}  {{< br >}}Global Construction of a Lie Group with a given Lie Algebra |
-| 20 | Differential 1-forms  {{< br >}}  {{< br >}}The Tensor Algebra and the Exterior Algebra |
-| 21 | Exterior Differentiation and Effect of Mappings  {{< br >}}  {{< br >}}Cartan's Proof of Lie's Third Theorem |
-| 22 | Integration of Forms  {{< br >}}  {{< br >}}Haar Measure and Invariant Integration on Homogeneous Spaces |
-| 23 | Maurer-Cartan Forms  {{< br >}}  {{< br >}}The Haar Measure in Canonical Coordinates |
-| 24 | Invariant Forms and Harmonic Forms  {{< br >}}  {{< br >}}Hodge's Theorem |
-| 25 | Real Forms  {{< br >}}  {{< br >}}Compact Real Forms, Construction and Significance |
-| 26 | The Classical Groups and the Classification of Simple Lie Algebras, Real and Complex
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Historical Background and Informal Introduction to Lie Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Differentiable Manifolds, Differentiable Functions, Vector Fields, Tangent Spaces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Tangent Spaces; Mappings and Coordinate Representation  
+  
+Submanifolds
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Affine Connections  
+  
+Parallelism; Geodesics  
+  
+Covariant Derivative
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Normal Coordinates  
+  
+Exponential Mapping
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Definition of Lie Groups  
+  
+Left-invariant Vector Fields  
+  
+Lie Algebras  
+  
+Universal Enveloping Algebra
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Left-invariant Affine Connections  
+  
+The Exponential Mapping  
+  
+Taylor's Formula in a Lie Group Formulation  
+  
+The Group GL (n, _R_)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Further Analysis of the Universal Enveloping Algebra  
+  
+Explicit Construction of a Lie Group (locally) from its Lie Algebra  
+  
+Exponentials and Brackets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Lie Subgroups and Lie Subalgebras  
+  
+Closer Subgroups
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Lie Algebras of some Classical Groups  
+  
+Closed Subgroups and Topological Lie Subgroups
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Lie Transformation Groups  
+  
+A Proof of Lie's Theorem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Homogeneous Spaces as Manifolds  
+  
+The Adjoint Group and the Adjoint Representation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Examples  
+  
+Homomorphisms and their Kernels and Ranges
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Examples  
+  
+Non-Euclidean Geometry  
+  
+The Associated Lie Groups of Su (1, 1) and Interpretation of the Corresponding Coset Spaces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+The Killing Form  
+  
+Semisimple Lie Groups
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Compact Semisimple Lie Groups  
+  
+Weyl's Theorem proved using Riemannian Geometry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+The Universal Covering Group
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Semi-direct Products  
+  
+The Automorphism Group as a Lie Group
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Solvable Lie Algebras  
+  
+The Levi Decomposition  
+  
+Global Construction of a Lie Group with a given Lie Algebra
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Differential 1-forms  
+  
+The Tensor Algebra and the Exterior Algebra
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Exterior Differentiation and Effect of Mappings  
+  
+Cartan's Proof of Lie's Third Theorem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Integration of Forms  
+  
+Haar Measure and Invariant Integration on Homogeneous Spaces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Maurer-Cartan Forms  
+  
+The Haar Measure in Canonical Coordinates
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Invariant Forms and Harmonic Forms  
+  
+Hodge's Theorem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Real Forms  
+  
+Compact Real Forms, Construction and Significance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+The Classical Groups and the Classification of Simple Lie Algebras, Real and Complex
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
