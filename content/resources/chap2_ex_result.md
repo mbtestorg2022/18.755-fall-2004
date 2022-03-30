@@ -10,6 +10,7 @@ description: This document contains a summary of the lecture material. These lec
   number of books on Lie groups has appeared.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-755-introduction-to-lie-groups-fall-2004/930f65669542342cdf72f44abd3afb12_chap2_ex_result.pdf
 file_type: application/pdf
+parent_uid: e15681b9-5f45-c52e-3aa0-e87df934826f
 resourcetype: Document
 title: chap2_ex_result.pdf
 uid: 930f6566-9542-342c-df72-f44abd3afb12
